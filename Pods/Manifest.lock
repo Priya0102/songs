@@ -1,0 +1,22 @@
+PODS:
+  - ACFloatingTextfield-Objc (1.7)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+
+DEPENDENCIES:
+  - ACFloatingTextfield-Objc
+  - SDWebImage
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ACFloatingTextfield-Objc
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  ACFloatingTextfield-Objc: 8780c7a0d96b2039d8a60d3461a4bbcd22e3faf3
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+
+PODFILE CHECKSUM: e2280e73a25a87700de31e3654e00cdab74c21b3
+
+COCOAPODS: 1.5.3
